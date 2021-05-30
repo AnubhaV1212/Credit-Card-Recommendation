@@ -1,0 +1,3 @@
+Python 
+
+Replace null value with Yes, so that Credit Product column will be balance
